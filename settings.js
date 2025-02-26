@@ -2,7 +2,7 @@ const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "Knight Bot",
-  botOwner: "bun2reign,bot // Your name
+  botOwner: "Bun2reign,bot // Your name
   ownerNumber: "09169126847 //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
