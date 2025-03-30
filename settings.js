@@ -2,8 +2,9 @@ const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "bun2reign bot",
-  botOwner: "Bun2reign,bot // Your name
-  ownerNumber: "+2349169126847 //Your number
+  botOwner: "Bun2reign,bot // bun2reign bot 
+    
+  ownerNumber: "//09169126847
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
